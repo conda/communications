@@ -2,7 +2,7 @@
 
 This repo is the GitHub home of the [conda communications team](https://github.com/orgs/conda/teams/communications).
 
-The Communications subteam helps to improve the communication between the conda organization and the larger conda community and works in tandem with the steering council and projects under the conda governance policy.
+The Communications team helps to improve the communication between the conda organization and the larger conda community and works in tandem with the steering council and projects under the conda governance policy.
 
 ## Responsibilities
 
@@ -10,7 +10,7 @@ We are responsible for helping with communication efforts and to help project ma
 
 This includes
 
-* maintenance of [Twitter](https://twitter.com/condaproject), Mastodon and related social media presence
+* maintenance of [Twitter](https://twitter.com/condaproject), [Mastodon](https://fosstodon.org/@conda) and related social media presence
 * co-administration and moderation of conda community spaces such as the [conda Community Forum](https://conda.discourse.group/), and the [conda chat space](https://app.element.io/#/room/#conda:matrix.org)
 * co-administration of mailing lists under the conda.org domain
 * [website maintenance (conda.org)](https://github.com/conda-incubator/conda-dot-org)
@@ -23,7 +23,9 @@ Most team communication happens in the [Conda Comms Element/Matrix channel](http
 
 ## Governance and Code of Conduct
 
-We are governed by the **[conda Organization Governance policies](https://github.com/conda-incubator/governance)** and the **[Communications Team Governance](GOVERNANCE.md)** policies.  All team interaction (and all conda public spaces) will follow the **[conda Organization Code of Conduct](https://github.com/conda-incubator/governance/blob/main/CODE_OF_CONDUCT.md)**.
+We are governed by the **[conda Organization Governance policies](https://github.com/conda-incubator/governance)** and the **[Communications Team Governance](GOVERNANCE.md)** policies.
+
+All team interactions, and all conda spaces, follow the **[conda Organization Code of Conduct](https://github.com/conda-incubator/governance/blob/main/CODE_OF_CONDUCT.md)**.
 
 
 ---
