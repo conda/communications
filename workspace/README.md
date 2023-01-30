@@ -10,13 +10,17 @@ These are proposals, which may eventually evolve into guidelines, or not.  Eithe
 
 In this directory, name your files
 
-  ``YYYY-MM-something-descriptive``
+  ``YYYY/MM/something-descriptive``
 
 Include the appropriate extension too.
 
 ### Header information
 
 At the top of each file include some information about the post, such as why, where it will be posted, and when.
+
+### Submission and review
+
+Add the file to an own branch in the main repository and submit a pull request against the main branch. Pull requests against changes in the `workspace` directory will automatically request a code review from the `conda/communications` team.
 
 ### Cleanup ?
 
