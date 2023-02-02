@@ -1,5 +1,9 @@
 # Meta!
 
+## 2023/02/01: Posted to Discourse
+
+See [post](https://conda.discourse.group/t/conda-community-chat-is-now-on-element-matrix/179)
+
 **Summary**
 
 Most of the community is aware that we are moving to Matrix.  Anyone on slack knows, and the one page guide to getting started with element has been posted on Discourse.
@@ -17,6 +21,9 @@ Publish this on Discourse.
 
 # Content
 
+Content is hidden in an HTML comment.  See the raw view.
+
+<!--
 **We are pleased to announce that the conda community has migrated our chat rooms to the Matrix/Element platform.  For the first time since the conda ecosystem was young, every conda-related chat room is now easily accessible on one platform.**
 
 [Matrix](https://matrix.org/) and [Element](https://element.io/) have been around for a couple of years, and are used widely by communities like ours (and by things as large as national governments too).  Let's dive in:
@@ -87,3 +94,4 @@ The process for adding spaces is similar to rooms, and the Conda Communications 
 The conda space is governed by the [conda organization Code of Conduct](https://github.com/conda-incubator/governance/blob/main/CODE_OF_CONDUCT.md).  By default, rooms in the space are too.  However, if a room or space is part of a separate organization, then it is governed by that organization's Code of Conduct.  The conda-forge space, for example, is governed by the [conda-forge Code of Conduct](https://conda-forge.org/docs/orga/governance.html).
 
 We will only link to rooms and spaces that either have a clearly stated code of conduct, or are willing to be governed by conda's Code of Conduct.
+-->
