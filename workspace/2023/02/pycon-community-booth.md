@@ -1,6 +1,5 @@
 # Meta!
 
-
 **Summary**
 
 Conda and conda-forge [are applying for a community booth at PyCon US 2023](https://us.pycon.org/2023/applications/apply/community-booth/).
@@ -14,11 +13,15 @@ This is where we are preparing our application.
 
 **When**:
 
-Deadline is 2023/02/24
+Deadline is 2023/02/24.  Application submitted on 2023/02/23
 
 # Content
 
-Note that MArkdown does not appear to be supported.
+Draft content is here, but it's in an HTML comment, as we don't particularly want search engines to point to this.
+
+<!--
+
+Note that Markdown does not appear to be supported.
 
 ## Organization name*
 
@@ -93,3 +96,5 @@ In 1-3 sentences, can you tell us how you hope to use your booth and/or what ben
 ### Proposal 2
 
 `Your idea here.`
+
+-->
