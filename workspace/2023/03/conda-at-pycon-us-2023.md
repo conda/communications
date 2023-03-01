@@ -5,7 +5,8 @@
 Conda related events at PyCon US 2023.
 
 **Where**:
-Published this on Discourse.
+
+[Published this on the conda Discourse](https://conda.discourse.group/t/conda-pycon-us-2023/222).
 
 **When**: 2023/03/01, tweeted the next day.
 
