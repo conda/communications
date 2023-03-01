@@ -5,15 +5,19 @@
 Conda related events at PyCon US 2023.
 
 **Where**:
-Publish this on Discourse.
+Published this on Discourse.
 
-**When**: 2023/03/02 - or maybe sooner, if there isn't any pushback
+**When**: 2023/03/01, tweeted the next day.
 
 # Possible titles
 
 * **Conda @ PyCon US 2023**
 
 # Content
+
+The post content is here, but it's in an HTML comment so it does not get indexed.
+
+<!--
 
 The conda community will be at [PyCon US 2023](https://us.pycon.org/2023/) this April, including a tutorial and a talk, plus two (we hope!) participatory events as well. Here's what's happening:
 
@@ -64,3 +68,5 @@ PyCon has tons of other things going on and some of them are particularly releva
 We will update this post as we find out more, and we hope to see you in Salt Lake!
 
 Dave C.
+
+-->
