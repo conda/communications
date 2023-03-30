@@ -1,9 +1,9 @@
-March releases are here! Both conda 23.3.0 and conda-build 3.24.0 are now available on both main and conda-forge:
+March releases are here! Both conda 23.3.1 and conda-build 3.24.0 are now available on both main and conda-forge:
 
 To update conda run:
 
 ```
-conda install -n base conda=23.3.0
+conda install -n base conda=23.3.1
 ```
 
 To update conda-build run:
@@ -18,6 +18,6 @@ Conda adds improved error messages for environment creation via `conda env creat
 
 Conda-build addresses a Git LFS failure, reduces false-positives when detecting Perl modules in `conda skeleton cpan`, and starts to address a `subdir` issue with testing downstream packages.
 
-Checkout [conda's changelog](https://github.com/conda/conda/releases/tag/23.3.0) and [conda-build's changelog](https://github.com/conda/conda-build/releases/tag/3.24.0) for a complete list of improvements.
+Checkout conda's changelogs for [23.3.0](https://github.com/conda/conda/releases/tag/23.3.0) and [23.3.1](https://github.com/conda/conda/releases/tag/23.3.1) and conda-build's changelog for [3.24.0](https://github.com/conda/conda-build/releases/tag/3.24.0) for a complete list of improvements.
 
 Snake away!
