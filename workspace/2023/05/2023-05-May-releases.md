@@ -2,7 +2,7 @@ May 2023 releases are here! Conda 23.5.0, conda-build 3.25.0, and conda-libmamba
 
 * * *
 
-In **conda**, the [`conda doctor` subcommand plugin](https://github.com/conda-incubator/conda-dot-org/pull/133) has been implemented! The [related conda issue is over nine years old](https://github.com/conda/conda/issues/474) and was filed by the CEO of Anaconda himself, Peter Wang. The `conda doctor` command enables conda users to detect any packages with files missing (_i.e._, corrupt packages) in their conda environment.
+In **conda**, the [`conda doctor` subcommand plugin](https://github.com/conda-incubator/conda-dot-org/pull/133) has been implemented! The [related conda issue is over nine years old](https://github.com/conda/conda/issues/474) and has been a regularly requested feature. The `conda doctor` command enables conda users to detect any packages with files missing (_i.e._, corrupt packages) in their conda environment.
 
 To update conda, run:
 
