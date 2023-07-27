@@ -1,4 +1,4 @@
-July 2023 releases are here! Conda 23.7.1 and conda-build 3.26.0 are now available on both main and conda-forge. 🎊
+July 2023 releases are here! Conda 23.7.2 and conda-build 3.26.0 are now available on both main and conda-forge. 🎊
 
 * * *
 
@@ -7,7 +7,7 @@ In the latest release of **conda**, [new pre- and post-command plugin hooks](lin
 To update conda, run:
 
 ```
-conda install -n base conda=23.7.1
+conda install -n base conda=23.7.2
 ```
 
 * * *
@@ -22,4 +22,4 @@ conda install -n base conda-build=3.26.0
 
 * * *
 
-Check out the changelogs for [conda 23.7.0](https://github.com/conda/conda/releases/tag/23.7.0), [conda 23.7.1](https://github.com/conda/conda/releases/tag/23.7.1), and [conda-build 3.26.0](https://github.com/conda/conda-build/releases/tag/3.26.0) to see what else is new!
+Check out the changelogs for [conda 23.7.0](https://github.com/conda/conda/releases/tag/23.7.0), [conda 23.7.1](https://github.com/conda/conda/releases/tag/23.7.1), [conda 23.7.2](https://github.com/conda/conda/releases/tag/23.7.2), and [conda-build 3.26.0](https://github.com/conda/conda-build/releases/tag/3.26.0) to see what else is new!
