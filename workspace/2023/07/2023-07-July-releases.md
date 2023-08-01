@@ -2,7 +2,7 @@ July 2023 releases are here! Conda 23.7.2 and conda-build 3.26.0 are now availab
 
 * * *
 
-In the latest release of **conda**, [new pre- and post-command plugin hooks](link to blogpost) that allow you to run your code before or after a conda subcommand are now available, along with a much improved subcommand plugin hook and plugin infrastructure. There is also a new health check for `conda doctor` that detects altered packages in an environment by comparing expected and computed sha256 checksums, as well as a much-expanded API and command docs ([`conda env`](https://docs.conda.io/projects/conda/en/23.7.x/commands/env/index.html)!).
+In the latest release of **conda**, [new pre- and post-command plugin hooks](https://conda.org/blog/2023-07-31-latest-conda-release-includes-new-plugin-hooks) that allow you to run your code before or after a conda subcommand are now available, along with a much improved subcommand plugin hook and plugin infrastructure. There is also a new health check for `conda doctor` that detects altered packages in an environment by comparing expected and computed sha256 checksums, as well as a much-expanded API and command docs ([`conda env`](https://docs.conda.io/projects/conda/en/23.7.x/commands/env/index.html)!).
 
 To update conda, run:
 
