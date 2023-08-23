@@ -2,7 +2,7 @@
 
 **We are governed by the [conda Organization Governance policies](https://github.com/conda-incubator/governance) and the policies lad out below.  All team interactions, and all conda spaces, follow the [conda Organization Code of Conduct](https://github.com/conda-incubator/governance/blob/main/CODE_OF_CONDUCT.md).**
 
-The communications team has a [dyanmic charter](https://github.com/conda-incubator/governance/blob/main/README.md#dynamic-charter), meaning that we are laregely self-organizing, and we control team membership (with the caveat that we must have at least one Steering Council member on the team.)
+The communications team has a [dynamic charter](https://github.com/conda-incubator/governance/blob/main/README.md#dynamic-charter), meaning that we are laregely self-organizing, and we control team membership (with the caveat that we must have at least one Steering Council member on the team.)
 
 ## Voting and Decision Making
 
