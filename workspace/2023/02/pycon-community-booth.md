@@ -74,7 +74,7 @@ There is no specific character limit.
 
 `conda-forge (https://conda-forge.org/) is a widely used package repository in the Python ecosystem that is built on the conda packaging ecosystem. The conda ecosystem (https://conda.io/) supports package and run-time environment management on multiple operating systems (including Linux, Windows, and macOS), and supports packages written in any programming language (or even in multiple languages).`
 
-DC: Note the use of conda.io instead of conda.org.  conda.org would be better, but it likely won't be up by the time the booth aplications are reviewed.
+DC: Note the use of conda.io instead of conda.org.  conda.org would be better, but it likely won't be up by the time the booth applications are reviewed.
 
 ### Description 2
 
