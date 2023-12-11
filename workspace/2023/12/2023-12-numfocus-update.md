@@ -2,7 +2,7 @@
 
 ### Community 
 
-* Subscribe to the new [conda-announce mailing list](https://lists.conda.org/wws/subscribe/announce) to get occassional summaries on the conda ecosystem delivered to your inbox.
+* Subscribe to the new [conda-announce mailing list](https://lists.conda.org/wws/subscribe/announce) to get occasional summaries on the conda ecosystem delivered to your inbox.
 * The Mamba project has [bi-weekly community calls](https://hackmd.io/iOgkxNMpTea6lWczjCov9Q?view) on Tuesdays.
 * The overall conda community has [bi-weekly calls](https://hackmd.io/@conda-community?tags=%5B%22meeting-notes%22%5D) on Wednesdays. 
 
