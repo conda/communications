@@ -8,12 +8,12 @@
 
 **Releases**
 
-* **`conda`** [23.11.0 release](https://conda.org/blog/2023-12-07-november-releases/#changes-in-conda-23110) includes 
-  * The speedy `conda-libmamba-solver` as the default dependency solver.  This and other improvements make `conda` run 4-5x faster.
+* **`conda`** [23.11.0](https://conda.org/blog/2023-12-07-november-releases/#changes-in-conda-23110) closes the 23.x release series. 2023 has brought many features to `conda`, including: 
+  * The speedy `conda-libmamba-solver` as the default dependency solver.  This and other improvements like parallel downloads make `conda` run 4-5x faster.
   * Support for plugins, enabling you to customize your conda installation.
   * Package builders can now include desktop icons across all operating systems.
   * The [conda documentation](https://docs.conda.io/en/latest/) has been reorganized and updated.
-* [**`pixi`**](https://pixi.sh/) a new open-source conda-compatible package and environment manager led by the folks at prefix.dev. Implemented in Rust, using the recently intoruduced Rattler library as a foundation.  See [the announcement](https://prefix.dev/blog/launching_pixi) for details.
+* [**`pixi`**](https://pixi.sh/) a new open-source conda-compatible package and environment manager led by the folks at prefix.dev. Implemented in Rust, using the recently introduced Rattler library as a foundation.  See [the announcement](https://prefix.dev/blog/launching_pixi) for details.
 * **`conda-build`** now supports `emscripten-wasm32` and `wasi-wasm32` platforms.
 * **`conda-lock`**, **`mamba`**, **`rattler-build`**, **`grayskull`**, **`quetz`**, **`rattler`**, **`condax`** and many other projects had new releases too.
 
