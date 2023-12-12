@@ -14,11 +14,12 @@
   * Package builders can now include desktop icons across all operating systems.
   * The [conda documentation](https://docs.conda.io/en/latest/) has been reorganized and updated.
 * [**`pixi`**](https://pixi.sh/) a new open-source conda-compatible package and environment manager led by the folks at prefix.dev. Implemented in Rust, using the recently introduced Rattler library as a foundation.  See [the announcement](https://prefix.dev/blog/launching_pixi) for details.
-* **`conda-build`** now supports `emscripten-wasm32` and `wasi-wasm32` platforms.
-* **`conda-lock`**, **`mamba`**, **`rattler-build`**, **`grayskull`**, **`quetz`**, **`rattler`**, **`condax`** and many other projects had new releases too.
+* **[`conda-build`](https://docs.conda.io/projects/conda-build/en/stable/)** now supports `emscripten-wasm32` and `wasi-wasm32` platforms.
+* **[`conda-lock`](https://conda.github.io/conda-lock/)**, **[`mamba`](https://mamba.readthedocs.io/en/latest/)**, **[`rattler-build`](https://prefix-dev.github.io/rattler-build/)**, **[`grayskull`](https://conda.github.io/grayskull/)**, **[`quetz`](https://quetz.readthedocs.io/en/latest/)**, **[`rattler`](https://github.com/mamba-org/rattler)**, **[`condax`](https://mariusvniekerk.github.io/condax/)** and many other projects had new releases too.
 
-**Newly welcomed projects**
+**Other news**
 
-These projects joined the [conda-incubator](https://github.com/conda-incubator):
-* [`conda-store`](https://github.com/conda-incubator/conda-auth) and kin support storing, reusing, and sharing conda environments.   
-* The [`conda-auth` plugin](https://github.com/conda-incubator/conda-auth) supports authenticated access to private channels in `conda`. (The [plugins repo](https://github.com/conda-incubator/plugins) lists this and other available plugins.)
+* **A [new recipe format for defining conda-compatible packages](https://github.com/conda-incubator/ceps/blob/main/cep-13.md) has been proposed and accepted.**  The format is much cleaner, and when implemented will enable fast parsing and building of recipes.
+* These projects joined the [conda-incubator](https://github.com/conda-incubator):
+  * [`conda-store`](https://github.com/conda-incubator/conda-auth) and kin support storing, reusing, and sharing conda environments.   
+  * The [`conda-auth` plugin](https://github.com/conda-incubator/conda-auth) supports authenticated access to private channels in `conda`. (The [plugins repo](https://github.com/conda-incubator/plugins) lists this and other available plugins.)
