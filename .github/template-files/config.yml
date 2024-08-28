@@ -8,13 +8,13 @@ conda/infrastructure:
   - .github/workflows/update.yml
 
   # [optional] to include repo in https://github.com/orgs/conda/projects/2
-  # - .github/workflows/issues.yml
+  - .github/workflows/issues.yml
   # - .github/workflows/labels.yml
-  # - .github/workflows/project.yml
+  - .github/workflows/project.yml
 
   # [optional] stale bot workflows
-  # - .github/workflows/stale.yml
-  # - .github/workflows/lock.yml
+  - .github/workflows/stale.yml
+  - .github/workflows/lock.yml
 
   # [optional] general processes for the conda org
   # - src: templates/HOW_WE_USE_GITHUB.md
